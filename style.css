@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Product+Sans');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    transition: all 0.3s ease;
+    font-family: Product Sans;
+}
+
+body {
+    background: #800080;
+    background: -webkit-linear-gradient(to right, #800080, #8A2BE2);
+    background: linear-gradient(to right, #800080, #8A2BE2);
+}
+
+footer {
+    border: 5px solid #7F00FF;
+    border-radius: 5px;
+    color: #7F00FF;
+    width: 250px;
+    margin: 20px auto;
+    padding: 10px 30px;
+    text-align: center;
+}
+
+footer>small>a {
+    color: #7F00FF;
+}
+
+.main {
+    border-radius: 17px;
+    background: #ccc;
+    width: 400px;
+    margin: 150px auto;
+    height: 175px;
+    position: relative;
+    box-shadow: 5px 5px 10px 1px #80009D;
+}
+
+.badge {
+    width: 160px;
+    background: #fff;
+    color: #800080;
+    padding: 5px 10px;
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: center;
+    margin: -12px 30%;
+    position: absolute;
+    border-radius: 100px;
+}
+
+.clock {
+    border-radius: 10px;
+    color: #fff;
+    background: #8E2DE2;
+    background: -webkit-linear-gradient(to right, #8A09E0, #9E2DE2);
+    background: linear-gradient(to right, #8A09E0, #9E2DE2);
+    font-size: 60px;
+    font-weight: bolder;
+    height: 100%;
+    padding: 50px;
+    text-align: center;
+}
