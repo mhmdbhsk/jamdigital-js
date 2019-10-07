@@ -1,5 +1,6 @@
 # Jam Digital
 [![Author](https://img.shields.io/badge/author-muhammad%20bhaska-green.svg)](https://github.com/muhammadbhaska)
+[![Author](https://img.shields.io/badge/author-Junianto%20Endra-green.svg)](https://github.com/J3ndra)
 
 Aplikasi ini terinspirasi dari [video ini](https://www.youtube.com/watch?v=DUEyiEnMVj4&list=PLkBfv4fGBau8rXtgJn90cAn2JziWATBk1)
 
