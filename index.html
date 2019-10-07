@@ -12,7 +12,7 @@
         crossorigin="anonymous">
 </head>
 
-<body class="texture-color texture">
+<body class="texture-color texture" onload="startTime()">
     <div class="main">
         <div class="badge">
             JAM DIGITAL
@@ -22,6 +22,16 @@
             <span id="menit">00:</span>
             <span id="detik">00</span>
         </div>
+    </div>
+    <!-- NEW CLOCK -->
+    <div id="clockdate">
+        <div class="clockdate-wrapper">
+            <div id="clock"></div>
+            <div id="date"></div>
+        </div>
+    </div>
+    <div class="jam">
+        <canvas id='canvas' width='500' height='500'></canvas>
     </div>
 </body>
 
